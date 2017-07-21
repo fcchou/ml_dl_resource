@@ -33,7 +33,7 @@ Andrew Ng's course at Stanford; covers the deeper math and theory of ML. Handout
 [book](http://www.mmds.org/)):
 Practical data mining methods, such as map-reduce, page-rank and recommendation system. Handouts available on the website.
 * [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-self-paced):
-Course based on the "Introduction to Statistical Learning" book, taught by its author.
+Course based on the "Introduction to Statistical Learning" book, taught by its authors.
 * [Stanford Convex Optimization](http://stanford.edu/class/ee364a/index.html) 
 ([video](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)):
 Taught by Stephen Boyd himself.
