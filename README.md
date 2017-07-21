@@ -6,7 +6,7 @@ Last updated: 7/2017
 
 ## Books
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/): 
-Book by the authors of LASSO, gradient boosting, MARS, etc. Machine learning from a statistical view point. Free pdf available online.
+Book by the authors of LASSO, gradient boosting, MARS, etc. Machine learning from a statistical viewpoint. Free pdf available online.
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/%7Egareth/ISL/):
 An introductory version of the above book, by mostly the same authors.
 * [Data Analysis Using Regression and Multilevel/Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/):
@@ -28,7 +28,7 @@ Most well-known intro ML online course by Andrew Ng. Very accessible and light i
 * [Stanford CS229 - Machine Learning](http://cs229.stanford.edu/) 
 ([video](https://www.youtube.com/view_play_list?p=A89DCFA6ADACE599)):
 Andrew Ng's course at Stanford; covers the deeper math and theory of ML. Handouts available on the website.
-* [Stanford CS246- Mining Massive Datasets](http://web.stanford.edu/class/cs246/)
+* [Stanford CS246 - Mining Massive Datasets](http://web.stanford.edu/class/cs246/)
 ([video](https://www.youtube.com/channel/UC_Oao2FYkLAUlUVkBfze4jg/videos),
 [book](http://www.mmds.org/)):
 Practical data mining methods, such as map-reduce, page-rank and recommendation system. Handouts available on the website.
@@ -90,5 +90,5 @@ Actually a place where people discuss good recent research. Paper authors someti
 * [caffe2](https://caffe2.ai/): Successor of caffe by Facebook.
 * [pytorch](http://pytorch.org/): Bring torch to Python, also by Facebook.
 * [mxnet](http://mxnet.io/): An open-sourced framework (Apache incubator) backed by Amazon
-* [CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/): Deep learning framework by Microsoft.
-* [Keras](https://keras.io/): Provides high-level deep learning API that runs on the top of Tensorflow, theano or CNTK. Very user friendly. Now officially supported in tensorflow.
+* [cntk](https://www.microsoft.com/en-us/cognitive-toolkit/): Deep learning framework by Microsoft.
+* [keras](https://keras.io/): Provides high-level deep learning API that runs on the top of Tensorflow, theano or CNTK. Very user friendly. Now officially supported in tensorflow.
