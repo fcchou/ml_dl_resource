@@ -78,6 +78,11 @@ Actually a place where people discuss good recent research. Paper authors someti
 * [stan](http://mc-stan.org/) and [pymc](http://pymc-devs.github.io/pymc3/): Bayesian modeling and inferences.
 * [opencv](http://opencv.org/) and [scikit-image](http://scikit-image.org/): Computer vision and image analysis.
 * [nltk](http://www.nltk.org/) and [spacy](https://spacy.io/): Natural laguage processing. Spacy is newer and more performant.
+### Plotting & Data Visualization
+* [matplotlib](https://matplotlib.org/): Most popular Python plotting library
+* [seaborn](https://seaborn.pydata.org/):
+Wrapper of matplotlib to make it look nicer and to provide additional statistical graphs.
+* [plotly](https://plot.ly/): Interactive graphs.
 ### Gradient Boosting Machine (GBM)
 * [xgboost](http://xgboost.readthedocs.io/en/latest/): Most popular and well-tested GBM package.
 * [lightgbm](https://github.com/Microsoft/LightGBM): A newer library by Microsoft. 5-10X faster than xgboost default mode.
