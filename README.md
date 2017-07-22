@@ -68,6 +68,7 @@ Another good list of deep learning papers.
 * [Arxiv Sanity](http://www.arxiv-sanity.com/): Andrej Karpathy's tool to help you find good papers on arxiv.
 * [Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/):
 Actually a place where people discuss good recent research. Paper authors sometimes respond to comments as well.
+* [Columbia Advanced Machine Learning Seminar](https://casmls.github.io/): Blog posts on the papers discussed in the seminar.
 
 ## Useful Libraries (Mostly Python)
 * [numpy + scipy](https://scipy.org/): Fast vector and matrix operations, linear algebra, optimization, sparse matrix.
