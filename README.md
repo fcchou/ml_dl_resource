@@ -37,6 +37,7 @@ Course based on the "Introduction to Statistical Learning" book, taught by its a
 * [Stanford Convex Optimization](http://stanford.edu/class/ee364a/index.html) 
 ([video](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)):
 Taught by Stephen Boyd himself.
+* [Theories of Deep Learning (Stanford STATS385)](https://stats385.github.io/)
 * [Sctkit-learn Documentation](http://scikit-learn.org/stable/):
 Very comprehensive documentation, covers many common ML algorithms and has a lot of practical examples.
 ### Deep Learning Materials
@@ -54,7 +55,8 @@ By Geoffrey Hinton, godfather of the modern deep learning.
 By Nando de Freitas. Starts from basic ML and dives into deep learning.
 * [Neural networks - Université de Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 ([video](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)): By Hugo Larochelle.
-* [2016 Deep Learning Summer School at Montreal](https://www.youtube.com/playlist?list=PL5bqIc6XopCbb-FvnHmD1neVlQKwGzQyR)
+* [2016 Deep Learning Summer School at Montreal](http://videolectures.net/deeplearning2016_montreal/)
+* [2017 Deep Learning Summer School at Montreal](http://videolectures.net/deeplearning2017_montreal/)
 * [Deep Learning Tutorials](http://deeplearning.net/tutorial/): Tutorial from Yoshua Bengio's prior course
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial/):
 Tutorial from Andrew Ng's prior deep learning course.
