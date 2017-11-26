@@ -37,7 +37,6 @@ Course based on the "Introduction to Statistical Learning" book, taught by its a
 * [Stanford Convex Optimization](http://stanford.edu/class/ee364a/index.html) 
 ([video](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)):
 Taught by Stephen Boyd himself.
-* [Theories of Deep Learning (Stanford STATS385)](https://stats385.github.io/)
 * [Sctkit-learn Documentation](http://scikit-learn.org/stable/):
 Very comprehensive documentation, covers many common ML algorithms and has a lot of practical examples.
 * [Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf):
@@ -46,12 +45,13 @@ Practical advices for industrial ML.
 Design of Uber's Machine Learning platform; covers a lot of aspects on how to create, deploy and verify a ML product in industry.
 
 ### Deep Learning Materials
-* [Stanford CS231n - Convolutional Network for Computer Vision](http://cs231n.stanford.edu/)
+* [Stanford CS 231n - Convolutional Network for Computer Vision](http://cs231n.stanford.edu/)
 ([video](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)): By Fei-Fei Li and Andrej Karpathy. Deep learning basics, convolutional net and computer vision applications
-* [Stanford CS224n - NLP with Deep Learning](http://cs224n.stanford.edu/)
+* [Stanford CS 224n - NLP with Deep Learning](http://cs224n.stanford.edu/)
 ([video](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)):
 By Chris Manning and Richard Socher. Word2vec, recurrent network, machine translation, and other NLP applications.
-* [Berkeley CS294 - Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+* [Theories of Deep Learning (Stanford STATS 385)](https://stats385.github.io/)
+* [Berkeley CS 294 - Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 ([video](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX))
 * [Neural Networks (Coursera)](https://www.coursera.org/learn/neural-networks):
 By Geoffrey Hinton, godfather of the modern deep learning.
@@ -77,10 +77,11 @@ Another good list of deep learning papers.
 Actually a place where people discuss good recent research. Paper authors sometimes respond to comments as well.
 * [Columbia Advanced Machine Learning Seminar](https://casmls.github.io/): Blog posts on the papers discussed in the seminar.
 
-## Useful Libraries (Mostly Python)
+## Useful Libraries (Mostly in Python)
 * [numpy + scipy](https://scipy.org/): Fast vector and matrix operations, linear algebra, optimization, sparse matrix.
 * [scikit-learn](http://scikit-learn.org/): Most popular ML library in Python.
 * [pandas](http://pandas.pydata.org/): Data wrangling and analysis.
+* [Spark](https://spark.apache.org/): Data processing and analysis for large-scale data.
 * [statsmodel](http://www.statsmodels.org): Statistics functions. 
 * [cvxpy](http://www.cvxpy.org/): Convex optimization.
 * [stan](http://mc-stan.org/) and [pymc](http://pymc-devs.github.io/pymc3/): Bayesian modeling and inferences.
