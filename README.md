@@ -2,7 +2,7 @@
 
 A curated list of resources for machine learning and deep learning that I found useful.
 
-Last updated: 7/2017
+Last updated: 11/2017
 
 ## Books
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/): 
