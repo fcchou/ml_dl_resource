@@ -46,8 +46,10 @@ Very comprehensive documentation, covers many common ML algorithms and has a lot
 Practical advices for industrial ML from a Google Engineer.
 * [Uber's ML Platform](https://eng.uber.com/michelangelo/):
 Design of Uber's Machine Learning platform; covers a lot of aspects on how to create, deploy and verify a ML product in industry.
-* [Machine Learning Tech Debt](https://research.google.com/pubs/pub43146.html)
-* [Practical advice for data analysis](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
+* [Machine Learning Tech Debt](https://research.google.com/pubs/pub43146.html):
+Good article by Google on the potential tech debt you might accumulate in building ML systems.
+* [Practical advice for data analysis](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html):
+Advices on doing large-scale data analysis in industry by a Google data scientist.
 
 ### Deep Learning Materials
 * [Stanford CS 231n - Convolutional Network for Computer Vision](http://cs231n.stanford.edu/)
