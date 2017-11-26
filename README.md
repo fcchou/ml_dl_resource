@@ -23,6 +23,7 @@ Bible of convex optimization by Stephen Boyd. Free pdf available.
 Written by top deep learning researchers. Includes practical guidelines, theoretical justifications and advanced materials on recent research. Does not cover deep reinforcement learning. Free pdf available.
 
 ## Courses, Tutorials and Useful articles
+### Fundamental Machine Learning
 * [Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning):
 Most well-known intro ML online course by Andrew Ng. Very accessible and light in math.
 * [Stanford CS229 - Machine Learning](http://cs229.stanford.edu/) 
@@ -39,10 +40,14 @@ Course based on the "Introduction to Statistical Learning" book, taught by its a
 Taught by Stephen Boyd himself.
 * [Sctkit-learn Documentation](http://scikit-learn.org/stable/):
 Very comprehensive documentation, covers many common ML algorithms and has a lot of practical examples.
+
+### Industrial Machine Learning
 * [Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf):
 Practical advices for industrial ML from a Google Engineer.
 * [Uber's ML Platform](https://eng.uber.com/michelangelo/):
 Design of Uber's Machine Learning platform; covers a lot of aspects on how to create, deploy and verify a ML product in industry.
+* [Machine Learning Tech Debt](https://research.google.com/pubs/pub43146.html)
+* [Practical advice for data analysis](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 
 ### Deep Learning Materials
 * [Stanford CS 231n - Convolutional Network for Computer Vision](http://cs231n.stanford.edu/)
