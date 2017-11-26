@@ -40,7 +40,7 @@ Taught by Stephen Boyd himself.
 * [Sctkit-learn Documentation](http://scikit-learn.org/stable/):
 Very comprehensive documentation, covers many common ML algorithms and has a lot of practical examples.
 * [Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf):
-Practical advices for industrial ML.
+Practical advices for industrial ML from a Google Engineer.
 * [Uber's ML Platform](https://eng.uber.com/michelangelo/):
 Design of Uber's Machine Learning platform; covers a lot of aspects on how to create, deploy and verify a ML product in industry.
 
